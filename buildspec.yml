@@ -24,8 +24,7 @@ phases:
   build:
     commands:
         ## tests
-        - echo Testing... 
-        - yarn test
+        
         ## build 
         - yarn build
 artifacts:
